@@ -9,4 +9,6 @@
   * Set-ExecutionPolicy unrestricted
 * (+ 7654 1234)
 
-[특징](https://philoskim.github.io/docs/spec/doc/overview.html)
+## 클로저의 특징
+* https://insights.stackoverflow.com/survey/2019
+* [특징](https://philoskim.github.io/docs/spec/doc/overview.html)
